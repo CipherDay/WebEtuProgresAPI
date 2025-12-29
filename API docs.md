@@ -22,7 +22,7 @@ they are not official or complete.
 
 - ### Base url:
 
-All calls to the api are made through the following url: `https://progres.mesrs.dz/api/`.
+All calls to the api are made through the following url: `https://progres.mesrs.dz/api/` or `https://api-webetu.mesrs.dz/api/` they interchangeable.
 
 - ### Authentication:
 
